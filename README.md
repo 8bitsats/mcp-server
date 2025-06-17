@@ -85,10 +85,10 @@ This MCP server provides the following tools:
    {
      "mcpServers": {
        "financial-datasets": {
-         "command": "/path/to/uv",
+         "command": "/Users/8bit/.langflow/uv/uv",
          "args": [
            "--directory",
-           "/absolute/path/to/financial-datasets-mcp",
+           "/Users/8bit/phalaterminal/mcp-server",
            "run",
            "server.py"
          ]
